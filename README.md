@@ -11,16 +11,30 @@
 This repository is intentionally broader than a simple music-listening directory. It covers the modern independent music stack: **streaming, music distribution, beat selling, sample packs, sync licensing, smart links, analytics, artist storefronts, communities, plugin marketplaces, visualizers, and open-source audio software.**
 
 
-## Network / Hub Placement
+## GareBear99 Audio Discovery Network
 
-This list is designed to connect into the broader GareBear99 audio discovery network through:
+This repository is the **music-platform satellite** inside the broader GareBear99 audio discovery network.
 
-- [GareBear99/awesome-audio-lists](https://github.com/GareBear99/awesome-audio-lists) - The hub list for curated audio lists, submission targets, plugin directories, sample-pack directories, and discovery surfaces.
-- [GareBear99/awesome-audio-plugins-dev](https://github.com/GareBear99/awesome-audio-plugins-dev) - The plugin/developer-facing list for free audio plugins, open-source DSP tools, JUCE projects, and production resources.
+- [awesome-audio-lists](https://github.com/GareBear99/awesome-audio-lists) - Canonical hub for curated audio lists, submission targets, plugin directories, sample-pack directories, discovery surfaces, and audio-project outreach tracking.
+- [awesome-music-platforms](https://github.com/GareBear99/awesome-music-platforms) - This list: music platforms for streaming, distribution, sync licensing, promotion, analytics, artist storefronts, beat selling, sample-pack marketplaces, visualization, and independent musician tools.
+- [awesome-audio-plugins-dev](https://github.com/GareBear99/awesome-audio-plugins-dev) - Plugin/developer satellite list for free audio plugins, DSP tools, JUCE resources, open-source plugin projects, and producer/developer resources.
 
-**Role of this repo:** `awesome-music-platforms` is the music-platform satellite list. It covers where artists, producers, labels, beatmakers, sample-pack creators, and music-tech builders can release, sell, promote, license, distribute, analyze, and showcase music.
+**Canonical role:** `awesome-music-platforms` supports the hub by mapping the places independent artists, producers, labels, beatmakers, sample-pack creators, plugin developers, and music-tech builders can release, sell, promote, license, analyze, and showcase music.
 
-**Role of the hub:** `awesome-audio-lists` should link here as the central index entry for music platforms, artist tools, distribution services, beat-selling sites, sample-pack marketplaces, licensing/sync platforms, music analytics, and creator storefronts.
+**Recommended repo name:** `awesome-music-platforms`  
+**Recommended README title:** `Awesome Music Platforms`  
+**Hub backlink:** [GareBear99/awesome-audio-lists](https://github.com/GareBear99/awesome-audio-lists)
+
+---
+
+## TizWildin / GareBear99 Ecosystem Anchors
+
+This list is built to support a real independent release ecosystem, including music, sample packs, free plugins, and public-facing audio tools.
+
+- [FreeEQ8](https://github.com/GareBear99/FreeEQ8) - Free/open-source EQ plugin anchor for the GareBear99 audio plugin ecosystem.
+- [FreeVox8](https://github.com/GareBear99/FreeVox8) - Planned/free spectral vocoder and ghost-resynthesis plugin anchor for vocal, spectral, and experimental sound-design workflows.
+- [TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWildinEntertainmentHUB) - Central hub concept for TizWildin/GareBearProductionz music, plugins, packs, and public releases.
+- [awesome-audio-lists](https://github.com/GareBear99/awesome-audio-lists) - Parent hub that should link here as the canonical music-platform directory.
 
 ---
 
@@ -268,6 +282,23 @@ producer-tools
 music-analytics
 music-visualization
 open-source-music
+```
+
+---
+
+## Ready-to-Paste Hub Entry
+
+Add this entry inside `awesome-audio-lists` under **Music platforms / artist distribution / creator storefronts**:
+
+```markdown
+### [GareBear99/awesome-music-platforms](https://github.com/GareBear99/awesome-music-platforms) ★ own list
+
+Curated list of music platforms for streaming, distribution, beat selling, sample packs, sync licensing, promotion, analytics, artist storefronts, music visualization, and independent musician tools.
+
+- Scope: artist platforms, streaming services, distribution, sample-pack marketplaces, beat stores, sync/licensing, promotion tools, analytics, creator storefronts, communities, and open-source music resources.
+- Submission format: PR against `README.md` or issue using the platform template.
+- Rules: useful public platforms only; short neutral descriptions; no spam, scams, or dead links.
+- TizWildin status: canonical satellite list for music-platform discovery and release-surface mapping.
 ```
 
 ---

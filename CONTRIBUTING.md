@@ -45,3 +45,8 @@ Before opening a pull request, confirm that:
 ## Suggesting a new category
 
 Open an issue if you think the repo needs a new category. Include a short explanation and at least three example entries for the proposed category.
+
+
+## Network fit
+
+This repo is part of the GareBear99 audio discovery network. Submissions should strengthen the music-platform satellite role of `awesome-music-platforms` and should not duplicate the broader hub role of `awesome-audio-lists` unless the entry is a directly relevant related list.

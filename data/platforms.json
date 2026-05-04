@@ -1,0 +1,96 @@
+{
+  "schema": "awesome-music-platforms.platforms.v1",
+  "updated": "2026-05-04",
+  "platforms": [
+    {
+      "name": "Spotify",
+      "url": "https://open.spotify.com/",
+      "category": "Streaming & Listening",
+      "best_for": "streaming discovery, playlists, listener analytics"
+    },
+    {
+      "name": "SoundCloud",
+      "url": "https://soundcloud.com/",
+      "category": "Independent Artist Platforms",
+      "best_for": "WIPs, underground discovery, playlists, direct drops"
+    },
+    {
+      "name": "Bandcamp",
+      "url": "https://bandcamp.com/",
+      "category": "Creator Storefronts",
+      "best_for": "direct music sales, merch, fan support"
+    },
+    {
+      "name": "DistroKid",
+      "url": "https://distrokid.com/",
+      "category": "Music Distribution",
+      "best_for": "fast independent music distribution"
+    },
+    {
+      "name": "TuneCore",
+      "url": "https://www.tunecore.com/",
+      "category": "Music Distribution",
+      "best_for": "distribution, publishing, artist services"
+    },
+    {
+      "name": "CD Baby",
+      "url": "https://cdbaby.com/",
+      "category": "Music Distribution",
+      "best_for": "distribution and publishing administration"
+    },
+    {
+      "name": "RouteNote",
+      "url": "https://routenote.com/",
+      "category": "Music Distribution",
+      "best_for": "free and paid distribution models"
+    },
+    {
+      "name": "Splice Sounds",
+      "url": "https://splice.com/sounds",
+      "category": "Sample Pack & Loop Marketplaces",
+      "best_for": "samples, loops, presets, creator marketplace"
+    },
+    {
+      "name": "Loopmasters",
+      "url": "https://www.loopmasters.com/",
+      "category": "Sample Pack & Loop Marketplaces",
+      "best_for": "sample packs and producer sounds"
+    },
+    {
+      "name": "BeatStars",
+      "url": "https://www.beatstars.com/",
+      "category": "Beat Selling Platforms",
+      "best_for": "beat leases, exclusives, producer storefronts"
+    },
+    {
+      "name": "Airbit",
+      "url": "https://airbit.com/",
+      "category": "Beat Selling Platforms",
+      "best_for": "beat selling and producer commerce"
+    },
+    {
+      "name": "Songtradr",
+      "url": "https://www.songtradr.com/",
+      "category": "Music Licensing & Sync",
+      "best_for": "sync licensing and rights management"
+    },
+    {
+      "name": "SubmitHub",
+      "url": "https://www.submithub.com/",
+      "category": "Promotion & Discovery",
+      "best_for": "blog, playlist, label, and curator submissions"
+    },
+    {
+      "name": "Feature.fm",
+      "url": "https://feature.fm/",
+      "category": "Promotion & Discovery",
+      "best_for": "smart links, pre-saves, fan journey analytics"
+    },
+    {
+      "name": "Chartmetric",
+      "url": "https://chartmetric.com/",
+      "category": "Analytics & Artist Tools",
+      "best_for": "music analytics and artist tracking"
+    }
+  ]
+}

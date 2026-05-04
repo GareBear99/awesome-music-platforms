@@ -1,0 +1,32 @@
+{
+  "primary": [
+    "awesome music platforms",
+    "music platforms for independent artists",
+    "where to upload music",
+    "where to sell music online"
+  ],
+  "clusters": {
+    "distribution": [
+      "best music distribution platforms",
+      "music distribution for independent artists"
+    ],
+    "monetization": [
+      "sell beats online",
+      "sell sample packs online",
+      "artist storefronts"
+    ],
+    "promotion": [
+      "music promotion tools",
+      "playlist submission platforms",
+      "smart links for musicians"
+    ],
+    "licensing": [
+      "sync licensing platforms",
+      "music licensing marketplaces"
+    ],
+    "analytics": [
+      "music analytics tools",
+      "artist analytics platforms"
+    ]
+  }
+}

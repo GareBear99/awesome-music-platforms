@@ -50,3 +50,22 @@ Open an issue if you think the repo needs a new category. Include a short explan
 ## Network fit
 
 This repo is part of the GareBear99 audio discovery network. Submissions should strengthen the music-platform satellite role of `awesome-music-platforms` and should not duplicate the broader hub role of `awesome-audio-lists` unless the entry is a directly relevant related list.
+
+
+## SEO/public quality gate
+
+Before submitting, make sure the entry helps real users answer one of these questions:
+
+- Where should I upload music?
+- Where should I distribute a release?
+- Where can I sell beats, stems, loops, or sample packs?
+- Where can I license music for sync or creator use?
+- What tools help promote, analyze, or monetize music?
+
+Rules:
+
+- Use clean canonical URLs. No referral, affiliate, or tracking links.
+- Keep descriptions neutral and one sentence long.
+- Add the platform to the most specific category.
+- Do not add scams, thin directories, private/invite-only pages, or dead projects.
+- Prefer platforms with clear public value for independent artists, producers, labels, sample-pack creators, audio developers, or music-tech builders.

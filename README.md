@@ -93,6 +93,7 @@ This repository is the **music-platform satellite** inside the broader GareBear9
 - [awesome-audio-lists](https://github.com/GareBear99/awesome-audio-lists) - Canonical hub for curated audio lists, submission targets, plugin directories, sample-pack directories, discovery surfaces, and audio-project outreach tracking.
 - [awesome-music-platforms](https://github.com/GareBear99/awesome-music-platforms) - This list: music platforms for streaming, distribution, sync licensing, promotion, analytics, artist storefronts, beat selling, sample-pack marketplaces, visualization, and independent musician tools.
 - [awesome-audio-plugins-dev](https://github.com/GareBear99/awesome-audio-plugins-dev) - Plugin/developer satellite list for free audio plugins, DSP tools, JUCE resources, open-source plugin projects, and producer/developer resources.
+- [awesome-python-audio-science](https://github.com/GareBear99/awesome-python-audio-science) - Research satellite list for Python audio science, DSP, MIR, ML audio, datasets, notebooks, plugin testing, and citation-ready audio research resources.
 
 **Canonical role:** `awesome-music-platforms` supports the hub by mapping the places independent artists, producers, labels, beatmakers, sample-pack creators, plugin developers, and music-tech builders can release, sell, promote, license, analyze, and showcase music.
 
@@ -319,10 +320,14 @@ This list is built to support a real independent release ecosystem, including mu
 
 These companion guides turn the list into a stronger independent-artist SEO resource:
 
+- [Best Music Platforms for Independent Artists](docs/best-music-platforms-for-independent-artists.md)
 - [Best Music Distribution Platforms](docs/best-music-distribution-platforms.md)
+- [Where to Upload Music](docs/where-to-upload-music.md)
 - [Best Platforms to Sell Beats](docs/best-platforms-to-sell-beats.md)
 - [Best Platforms to Sell Sample Packs](docs/best-platforms-to-sell-sample-packs.md)
+- [Where to Sell Loops, Stems, and Sample Packs](docs/where-to-sell-loops-stems-and-sample-packs.md)
 - [Best Music Promotion Tools](docs/best-music-promotion-tools.md)
+- [Music Marketing Stack for Independent Artists](docs/music-marketing-stack-for-independent-artists.md)
 - [Best Sync Licensing Platforms](docs/best-sync-licensing-platforms.md)
 - [Best Artist Storefronts](docs/best-artist-storefronts.md)
 - [Free Music Platforms for Independent Artists](docs/free-music-platforms-for-independent-artists.md)
@@ -348,6 +353,7 @@ These files turn the repo into a maintained public knowledge base instead of a s
 
 - [Awesome Audio Lists](https://github.com/GareBear99/awesome-audio-lists) - Hub list for curated audio lists, plugin directories, sample-pack submission surfaces, and audio-project outreach tracking.
 - [Awesome Audio Plugins Dev](https://github.com/GareBear99/awesome-audio-plugins-dev) - Curated list of free audio plugins, open-source DSP tools, plugin frameworks, and audio development resources.
+- [Awesome Python Audio Science](https://github.com/GareBear99/awesome-python-audio-science) - Curated list of Python audio science, DSP, MIR, ML audio, datasets, notebooks, plugin testing, and citation-ready audio research resources.
 - [Awesome Music Listening](https://github.com/ybayle/awesome-music-listening) - Curated list of websites dedicated to listening to music.
 - [Awesome Music Production](https://github.com/adius/awesome-music-production) - Music production software and resources.
 - [Awesome Audio DSP](https://github.com/BillyDM/awesome-audio-dsp) - Audio DSP and plugin development resources.
@@ -437,6 +443,9 @@ music-analytics
 music-promotion
 streaming-platforms
 creator-tools
+music-licensing
+music-visualization
+open-source-audio
 ```
 
 ## Contributing

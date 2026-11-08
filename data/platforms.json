@@ -664,6 +664,12 @@
       "description": "WebGL library frequently used for browser-based music visualizers."
     },
     {
+      "name": "Vizz.fm",
+      "url": "https://vizz.fm/",
+      "category": "Music Visualization Tools",
+      "description": "Free browser-based real-time music visualizer with morphing presets."
+    },
+    {
       "name": "LMMS",
       "url": "https://lmms.io/",
       "category": "Open Source Music Projects",

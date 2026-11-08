@@ -299,6 +299,7 @@ This list is built to support a real independent release ecosystem, including mu
 - [Hydra](https://hydra.ojack.xyz/) - Live-coded visuals and browser-based synth visuals.
 - [p5.js Sound](https://p5js.org/reference/#/libraries/p5.sound) - Creative coding library for audio-reactive browser visuals.
 - [Three.js](https://threejs.org/) - WebGL library frequently used for browser-based music visualizers.
+- [Vizz.fm](https://vizz.fm/) - Free browser-based real-time music visualizer with morphing presets.
 
 ## Open Source Music Projects
 

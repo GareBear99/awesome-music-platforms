@@ -3,7 +3,7 @@
 > The independent artist's map of where to release, sell, promote, license, analyze, monetize, and build around music online.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/GareBear99/awesome-music-platforms?style=social)](https://github.com/GareBear99/awesome-music-platforms/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/GareBear99/awesome-music-platforms?style=social)](https://github.com/GareBear99/awesome-music-platforms)
 [![GitHub forks](https://img.shields.io/github/forks/GareBear99/awesome-music-platforms?style=social)](https://github.com/GareBear99/awesome-music-platforms/forks)
 [![Last commit](https://img.shields.io/github/last-commit/GareBear99/awesome-music-platforms)](https://github.com/GareBear99/awesome-music-platforms/commits/main)
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)

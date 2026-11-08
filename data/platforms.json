@@ -1,12 +1,19 @@
 {
   "schema": "awesome-music-platforms.platforms.v1",
-  "updated": "2026-05-04",
+  "updated": "2026-11-08",
+  "generated_from": "README.md category sections via scripts/generate_platforms_json.py",
   "platforms": [
     {
       "name": "Spotify",
       "url": "https://open.spotify.com/",
-      "category": "Streaming & Listening",
+      "category": "Streaming & Listening Platforms",
       "best_for": "streaming discovery, playlists, listener analytics"
+    },
+    {
+      "name": "Apple Music",
+      "url": "https://music.apple.com/",
+      "category": "Streaming & Listening Platforms",
+      "description": "Global music streaming platform connected to the Apple ecosystem."
     },
     {
       "name": "SoundCloud",
@@ -15,10 +22,76 @@
       "best_for": "WIPs, underground discovery, playlists, direct drops"
     },
     {
+      "name": "YouTube Music",
+      "url": "https://music.youtube.com/",
+      "category": "Streaming & Listening Platforms",
+      "description": "Music streaming platform connected to YouTube videos, Shorts, and artist channels."
+    },
+    {
+      "name": "Audiomack",
+      "url": "https://audiomack.com/",
+      "category": "Streaming & Listening Platforms",
+      "description": "Streaming and discovery platform popular with independent artists."
+    },
+    {
+      "name": "Deezer",
+      "url": "https://www.deezer.com/",
+      "category": "Streaming & Listening Platforms",
+      "description": "Global music streaming platform with editorial and playlist discovery."
+    },
+    {
+      "name": "TIDAL",
+      "url": "https://tidal.com/",
+      "category": "Streaming & Listening Platforms",
+      "description": "Music streaming platform with hi-fi audio and artist-focused positioning."
+    },
+    {
+      "name": "Qobuz",
+      "url": "https://www.qobuz.com/",
+      "category": "Streaming & Listening Platforms",
+      "description": "Hi-res music streaming and download platform."
+    },
+    {
+      "name": "Boomplay",
+      "url": "https://www.boomplay.com/",
+      "category": "Streaming & Listening Platforms",
+      "description": "Music streaming platform with strong reach in African music markets."
+    },
+    {
+      "name": "Anghami",
+      "url": "https://www.anghami.com/",
+      "category": "Streaming & Listening Platforms",
+      "description": "Music streaming platform with strong MENA-region presence."
+    },
+    {
       "name": "Bandcamp",
       "url": "https://bandcamp.com/",
       "category": "Creator Storefronts",
       "best_for": "direct music sales, merch, fan support"
+    },
+    {
+      "name": "ReverbNation",
+      "url": "https://www.reverbnation.com/",
+      "category": "Independent Artist Platforms",
+      "description": "Artist profile, promotion, opportunities, and music discovery platform."
+    },
+    {
+      "name": "Jamendo",
+      "url": "https://www.jamendo.com/",
+      "category": "Independent Artist Platforms",
+      "description": "Independent music platform with licensing and discovery features."
+    },
+    {
+      "name": "HearThis.at",
+      "url": "https://hearthis.at/",
+      "category": "Independent Artist Platforms",
+      "description": "Music-sharing platform for DJs, producers, and independent creators."
+    },
+    {
+      "name": "Newgrounds Audio Portal",
+      "url": "https://www.newgrounds.com/audio",
+      "category": "Independent Artist Platforms",
+      "description": "Long-running community platform for independent music, game audio, and creator culture."
     },
     {
       "name": "DistroKid",
@@ -39,10 +112,46 @@
       "best_for": "distribution and publishing administration"
     },
     {
+      "name": "UnitedMasters",
+      "url": "https://unitedmasters.com/",
+      "category": "Music Distribution",
+      "description": "Distribution and artist-services platform."
+    },
+    {
+      "name": "Amuse",
+      "url": "https://www.amuse.io/",
+      "category": "Music Distribution",
+      "description": "Music distribution with artist-friendly mobile-first tools."
+    },
+    {
+      "name": "LANDR Distribution",
+      "url": "https://www.landr.com/distribution/",
+      "category": "Music Distribution",
+      "description": "Music distribution connected to mastering and creator tools."
+    },
+    {
+      "name": "Ditto Music",
+      "url": "https://dittomusic.com/",
+      "category": "Music Distribution",
+      "description": "Music distribution and label services."
+    },
+    {
       "name": "RouteNote",
       "url": "https://routenote.com/",
       "category": "Music Distribution",
       "best_for": "free and paid distribution models"
+    },
+    {
+      "name": "Symphonic Distribution",
+      "url": "https://symphonic.com/",
+      "category": "Music Distribution",
+      "description": "Distribution, marketing, royalty, and label-services platform."
+    },
+    {
+      "name": "ONErpm",
+      "url": "https://onerpm.com/",
+      "category": "Music Distribution",
+      "description": "Distribution, label services, marketing, and creator tools."
     },
     {
       "name": "Splice Sounds",
@@ -57,6 +166,54 @@
       "best_for": "sample packs and producer sounds"
     },
     {
+      "name": "ADSR Sounds",
+      "url": "https://www.adsrsounds.com/",
+      "category": "Sample Pack & Loop Marketplaces",
+      "description": "Sample packs, presets, plugins, and production tools."
+    },
+    {
+      "name": "Producer Loops",
+      "url": "https://www.producerloops.com/",
+      "category": "Sample Pack & Loop Marketplaces",
+      "description": "Royalty-free sample packs and construction kits."
+    },
+    {
+      "name": "Sample Magic",
+      "url": "https://www.samplemagic.com/",
+      "category": "Sample Pack & Loop Marketplaces",
+      "description": "Sample packs, presets, and production resources."
+    },
+    {
+      "name": "LANDR Samples",
+      "url": "https://samples.landr.com/",
+      "category": "Sample Pack & Loop Marketplaces",
+      "description": "Sample discovery and production resources."
+    },
+    {
+      "name": "Loopcloud",
+      "url": "https://www.loopcloud.com/",
+      "category": "Sample Pack & Loop Marketplaces",
+      "description": "Sample library and loop-management ecosystem."
+    },
+    {
+      "name": "Cymatics",
+      "url": "https://cymatics.fm/",
+      "category": "Sample Pack & Loop Marketplaces",
+      "description": "Producer packs, loops, MIDI, presets, and sound kits."
+    },
+    {
+      "name": "Sounds.com",
+      "url": "https://sounds.com/",
+      "category": "Sample Pack & Loop Marketplaces",
+      "description": "Sample and loop platform from Native Instruments."
+    },
+    {
+      "name": "Noiiz",
+      "url": "https://www.noiiz.com/",
+      "category": "Sample Pack & Loop Marketplaces",
+      "description": "Sample packs, loops, presets, and producer resources."
+    },
+    {
       "name": "BeatStars",
       "url": "https://www.beatstars.com/",
       "category": "Beat Selling Platforms",
@@ -69,10 +226,94 @@
       "best_for": "beat selling and producer commerce"
     },
     {
+      "name": "Traktrain",
+      "url": "https://traktrain.com/",
+      "category": "Beat Selling Platforms",
+      "description": "Beat marketplace with producer storefronts."
+    },
+    {
+      "name": "SoundClick",
+      "url": "https://www.soundclick.com/",
+      "category": "Beat Selling Platforms",
+      "description": "Long-running beat, artist, and music platform."
+    },
+    {
+      "name": "Gumroad",
+      "url": "https://gumroad.com/",
+      "category": "Beat Selling Platforms",
+      "description": "Simple direct storefront for beats, stems, loops, and packs."
+    },
+    {
+      "name": "Payhip",
+      "url": "https://payhip.com/",
+      "category": "Beat Selling Platforms",
+      "description": "Digital-product storefront for music products and sample packs."
+    },
+    {
+      "name": "Sellfy",
+      "url": "https://sellfy.com/",
+      "category": "Beat Selling Platforms",
+      "description": "Creator storefront for digital products, subscriptions, merch, and music products."
+    },
+    {
       "name": "Songtradr",
       "url": "https://www.songtradr.com/",
       "category": "Music Licensing & Sync",
       "best_for": "sync licensing and rights management"
+    },
+    {
+      "name": "Musicbed",
+      "url": "https://www.musicbed.com/",
+      "category": "Music Licensing & Sync",
+      "description": "Music licensing for filmmakers and brands."
+    },
+    {
+      "name": "Artlist",
+      "url": "https://artlist.io/",
+      "category": "Music Licensing & Sync",
+      "description": "Music licensing for video creators."
+    },
+    {
+      "name": "Epidemic Sound",
+      "url": "https://www.epidemicsound.com/",
+      "category": "Music Licensing & Sync",
+      "description": "Music and sound effects licensing."
+    },
+    {
+      "name": "Pond5",
+      "url": "https://www.pond5.com/",
+      "category": "Music Licensing & Sync",
+      "description": "Marketplace for music, sound effects, stock video, and media assets."
+    },
+    {
+      "name": "AudioJungle",
+      "url": "https://audiojungle.net/",
+      "category": "Music Licensing & Sync",
+      "description": "Royalty-free music and audio marketplace."
+    },
+    {
+      "name": "Marmoset",
+      "url": "https://www.marmosetmusic.com/",
+      "category": "Music Licensing & Sync",
+      "description": "Music licensing and creative sync platform."
+    },
+    {
+      "name": "PremiumBeat",
+      "url": "https://www.premiumbeat.com/",
+      "category": "Music Licensing & Sync",
+      "description": "Curated royalty-free music licensing."
+    },
+    {
+      "name": "Music Vine",
+      "url": "https://musicvine.com/",
+      "category": "Music Licensing & Sync",
+      "description": "Curated music licensing for filmmakers and brands."
+    },
+    {
+      "name": "Soundstripe",
+      "url": "https://www.soundstripe.com/",
+      "category": "Music Licensing & Sync",
+      "description": "Music licensing for creators, video teams, and businesses."
     },
     {
       "name": "SubmitHub",
@@ -81,16 +322,418 @@
       "best_for": "blog, playlist, label, and curator submissions"
     },
     {
+      "name": "Groover",
+      "url": "https://groover.co/",
+      "category": "Promotion & Discovery",
+      "description": "Music-promotion platform for contacting curators and industry professionals."
+    },
+    {
+      "name": "Playlist Push",
+      "url": "https://playlistpush.com/",
+      "category": "Promotion & Discovery",
+      "description": "Playlist and creator campaign platform."
+    },
+    {
+      "name": "Daily Playlists",
+      "url": "https://dailyplaylists.com/",
+      "category": "Promotion & Discovery",
+      "description": "Spotify playlist-submission platform."
+    },
+    {
+      "name": "Musosoup",
+      "url": "https://musosoup.com/",
+      "category": "Promotion & Discovery",
+      "description": "Music PR and curator submission platform."
+    },
+    {
+      "name": "Hypeddit",
+      "url": "https://hypeddit.com/",
+      "category": "Promotion & Discovery",
+      "description": "Fan gates, smart links, download gates, and music-promotion tools."
+    },
+    {
       "name": "Feature.fm",
       "url": "https://feature.fm/",
       "category": "Promotion & Discovery",
       "best_for": "smart links, pre-saves, fan journey analytics"
     },
     {
+      "name": "ToneDen",
+      "url": "https://www.toneden.io/",
+      "category": "Promotion & Discovery",
+      "description": "Music marketing, fan links, and campaign tools."
+    },
+    {
+      "name": "Linkfire",
+      "url": "https://www.linkfire.com/",
+      "category": "Promotion & Discovery",
+      "description": "Smart links and music marketing analytics."
+    },
+    {
+      "name": "Show.co",
+      "url": "https://show.co/",
+      "category": "Promotion & Discovery",
+      "description": "Music marketing tools, landing pages, and fan engagement campaigns."
+    },
+    {
+      "name": "Ko-fi",
+      "url": "https://ko-fi.com/",
+      "category": "Creator Storefronts",
+      "description": "Fan support, memberships, commissions, and digital products."
+    },
+    {
+      "name": "Buy Me a Coffee",
+      "url": "https://www.buymeacoffee.com/",
+      "category": "Creator Storefronts",
+      "description": "Fan support and creator memberships."
+    },
+    {
+      "name": "Patreon",
+      "url": "https://www.patreon.com/",
+      "category": "Creator Storefronts",
+      "description": "Membership platform for exclusive tracks, stems, packs, and behind-the-scenes content."
+    },
+    {
+      "name": "Fourthwall",
+      "url": "https://fourthwall.com/",
+      "category": "Creator Storefronts",
+      "description": "Creator storefronts, merch, memberships, and fan products."
+    },
+    {
+      "name": "Shopify",
+      "url": "https://www.shopify.com/",
+      "category": "Creator Storefronts",
+      "description": "Full custom storefront for music, merch, sample packs, plugins, and digital products."
+    },
+    {
+      "name": "WooCommerce",
+      "url": "https://woocommerce.com/",
+      "category": "Creator Storefronts",
+      "description": "WordPress ecommerce platform for selling music products, merch, and downloads."
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/",
+      "category": "Music Video & Short-Form Platforms",
+      "description": "Music videos, visualizers, Shorts, lyric videos, and artist channels."
+    },
+    {
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/",
+      "category": "Music Video & Short-Form Platforms",
+      "description": "Short-form viral music discovery."
+    },
+    {
+      "name": "Instagram Reels",
+      "url": "https://www.instagram.com/",
+      "category": "Music Video & Short-Form Platforms",
+      "description": "Short-form music clips, performance content, and promo."
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/",
+      "category": "Music Video & Short-Form Platforms",
+      "description": "Artist pages, music posts, groups, events, and fan communities."
+    },
+    {
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/",
+      "category": "Music Video & Short-Form Platforms",
+      "description": "Live production, beatmaking, listening sessions, and performance streams."
+    },
+    {
+      "name": "Kick",
+      "url": "https://kick.com/",
+      "category": "Music Video & Short-Form Platforms",
+      "description": "Livestreaming platform for creator broadcasts."
+    },
+    {
+      "name": "Vimeo",
+      "url": "https://vimeo.com/",
+      "category": "Music Video & Short-Form Platforms",
+      "description": "Higher-quality video hosting for music visuals, reels, and portfolios."
+    },
+    {
+      "name": "Spotify for Artists",
+      "url": "https://artists.spotify.com/",
+      "category": "Analytics & Artist Tools",
+      "description": "Spotify profile management and listener analytics."
+    },
+    {
+      "name": "Apple Music for Artists",
+      "url": "https://artists.apple.com/",
+      "category": "Analytics & Artist Tools",
+      "description": "Apple Music artist analytics and profile tools."
+    },
+    {
+      "name": "YouTube Studio",
+      "url": "https://studio.youtube.com/",
+      "category": "Analytics & Artist Tools",
+      "description": "YouTube analytics, uploads, monetization, and channel tools."
+    },
+    {
+      "name": "SoundCloud for Artists",
+      "url": "https://artists.soundcloud.com/",
+      "category": "Analytics & Artist Tools",
+      "description": "SoundCloud promotion, distribution, and artist analytics."
+    },
+    {
       "name": "Chartmetric",
       "url": "https://chartmetric.com/",
       "category": "Analytics & Artist Tools",
       "best_for": "music analytics and artist tracking"
+    },
+    {
+      "name": "Soundcharts",
+      "url": "https://soundcharts.com/",
+      "category": "Analytics & Artist Tools",
+      "description": "Music data, radio airplay, playlist, and social analytics."
+    },
+    {
+      "name": "Viberate",
+      "url": "https://www.viberate.com/",
+      "category": "Analytics & Artist Tools",
+      "description": "Music analytics for artists, labels, and live industry."
+    },
+    {
+      "name": "Songstats",
+      "url": "https://songstats.com/",
+      "category": "Analytics & Artist Tools",
+      "description": "Music analytics for artists, labels, and managers."
+    },
+    {
+      "name": "Reddit - r/WeAreTheMusicMakers",
+      "url": "https://www.reddit.com/r/WeAreTheMusicMakers/",
+      "category": "Music Communities",
+      "description": "Musician and producer community."
+    },
+    {
+      "name": "Reddit - r/edmproduction",
+      "url": "https://www.reddit.com/r/edmproduction/",
+      "category": "Music Communities",
+      "description": "Electronic music production community."
+    },
+    {
+      "name": "Reddit - r/makinghiphop",
+      "url": "https://www.reddit.com/r/makinghiphop/",
+      "category": "Music Communities",
+      "description": "Hip-hop production and artist community."
+    },
+    {
+      "name": "KVR Audio",
+      "url": "https://www.kvraudio.com/",
+      "category": "Music Communities",
+      "description": "Audio plugin, synth, DAW, and developer community."
+    },
+    {
+      "name": "Gearspace",
+      "url": "https://gearspace.com/",
+      "category": "Music Communities",
+      "description": "Audio engineering, gear, production, and plugin discussion."
+    },
+    {
+      "name": "VI-Control",
+      "url": "https://vi-control.net/",
+      "category": "Music Communities",
+      "description": "Composer, orchestral, and virtual instrument community."
+    },
+    {
+      "name": "Lines Forum",
+      "url": "https://llllllll.co/",
+      "category": "Music Communities",
+      "description": "Experimental music technology and creative coding community."
+    },
+    {
+      "name": "Mod Wiggler",
+      "url": "https://modwiggler.com/",
+      "category": "Music Communities",
+      "description": "Modular synthesis and electronic music community."
+    },
+    {
+      "name": "Elektronauts",
+      "url": "https://www.elektronauts.com/",
+      "category": "Music Communities",
+      "description": "Community for Elektron gear, electronic music, and production."
+    },
+    {
+      "name": "Plugin Boutique",
+      "url": "https://www.pluginboutique.com/",
+      "category": "Audio Plugin & Producer Resources",
+      "description": "Audio plugins, instruments, and effects marketplace."
+    },
+    {
+      "name": "Bedroom Producers Blog",
+      "url": "https://bedroomproducersblog.com/",
+      "category": "Audio Plugin & Producer Resources",
+      "description": "Free plugins, music production news, and resources."
+    },
+    {
+      "name": "Production Expert",
+      "url": "https://www.production-expert.com/",
+      "category": "Audio Plugin & Producer Resources",
+      "description": "Plugin reviews, production tutorials, and industry news."
+    },
+    {
+      "name": "Audio Plugin Deals",
+      "url": "https://audioplugin.deals/",
+      "category": "Audio Plugin & Producer Resources",
+      "description": "Plugin and sound-pack deals."
+    },
+    {
+      "name": "GitHub Topics - audio-plugin",
+      "url": "https://github.com/topics/audio-plugin",
+      "category": "Audio Plugin & Producer Resources",
+      "description": "Open-source plugin projects."
+    },
+    {
+      "name": "GitHub Topics - juce",
+      "url": "https://github.com/topics/juce",
+      "category": "Audio Plugin & Producer Resources",
+      "description": "JUCE-based audio projects."
+    },
+    {
+      "name": "JUCE",
+      "url": "https://juce.com/",
+      "category": "Audio Plugin & Producer Resources",
+      "description": "C++ framework for cross-platform audio plugin development."
+    },
+    {
+      "name": "iPlug2",
+      "url": "https://iplug2.github.io/",
+      "category": "Audio Plugin & Producer Resources",
+      "description": "C++ audio plugin framework."
+    },
+    {
+      "name": "DISTRHO",
+      "url": "https://distrho.sourceforge.io/",
+      "category": "Audio Plugin & Producer Resources",
+      "description": "Open-source audio plugin framework and plugin ecosystem."
+    },
+    {
+      "name": "MilkDrop3",
+      "url": "https://github.com/milkdrop2077/MilkDrop3",
+      "category": "Music Visualization Tools",
+      "description": "Modern continuation of the classic MilkDrop music visualization engine."
+    },
+    {
+      "name": "projectM",
+      "url": "https://github.com/projectM-visualizer/projectm",
+      "category": "Music Visualization Tools",
+      "description": "Open-source music visualization software compatible with MilkDrop presets."
+    },
+    {
+      "name": "TouchDesigner",
+      "url": "https://derivative.ca/",
+      "category": "Music Visualization Tools",
+      "description": "Node-based visual development platform used for live visuals and reactive media."
+    },
+    {
+      "name": "Resolume",
+      "url": "https://resolume.com/",
+      "category": "Music Visualization Tools",
+      "description": "VJing and live visual performance software."
+    },
+    {
+      "name": "Synesthesia",
+      "url": "https://synesthesia.live/",
+      "category": "Music Visualization Tools",
+      "description": "Live music visualization software."
+    },
+    {
+      "name": "Magic Music Visuals",
+      "url": "https://magicmusicvisuals.com/",
+      "category": "Music Visualization Tools",
+      "description": "Audio-reactive visualization software."
+    },
+    {
+      "name": "Hydra",
+      "url": "https://hydra.ojack.xyz/",
+      "category": "Music Visualization Tools",
+      "description": "Live-coded visuals and browser-based synth visuals."
+    },
+    {
+      "name": "p5.js Sound",
+      "url": "https://p5js.org/reference/#/libraries/p5.sound",
+      "category": "Music Visualization Tools",
+      "description": "Creative coding library for audio-reactive browser visuals."
+    },
+    {
+      "name": "Three.js",
+      "url": "https://threejs.org/",
+      "category": "Music Visualization Tools",
+      "description": "WebGL library frequently used for browser-based music visualizers."
+    },
+    {
+      "name": "LMMS",
+      "url": "https://lmms.io/",
+      "category": "Open Source Music Projects",
+      "description": "Free and open-source digital audio workstation."
+    },
+    {
+      "name": "Ardour",
+      "url": "https://ardour.org/",
+      "category": "Open Source Music Projects",
+      "description": "Open-source DAW for recording, editing, and mixing."
+    },
+    {
+      "name": "Audacity",
+      "url": "https://www.audacityteam.org/",
+      "category": "Open Source Music Projects",
+      "description": "Open-source audio editor."
+    },
+    {
+      "name": "Zrythm",
+      "url": "https://www.zrythm.org/",
+      "category": "Open Source Music Projects",
+      "description": "Open-source digital audio workstation."
+    },
+    {
+      "name": "Surge XT",
+      "url": "https://surge-synthesizer.github.io/",
+      "category": "Open Source Music Projects",
+      "description": "Open-source hybrid synthesizer."
+    },
+    {
+      "name": "VCV Rack",
+      "url": "https://vcvrack.com/",
+      "category": "Open Source Music Projects",
+      "description": "Virtual modular synthesizer platform."
+    },
+    {
+      "name": "Cardinal",
+      "url": "https://github.com/DISTRHO/Cardinal",
+      "category": "Open Source Music Projects",
+      "description": "Open-source virtual modular synthesizer plugin."
+    },
+    {
+      "name": "Helm",
+      "url": "https://tytel.org/helm/",
+      "category": "Open Source Music Projects",
+      "description": "Open-source software synthesizer."
+    },
+    {
+      "name": "Sonic Pi",
+      "url": "https://sonic-pi.net/",
+      "category": "Open Source Music Projects",
+      "description": "Live coding music environment."
+    },
+    {
+      "name": "SuperCollider",
+      "url": "https://supercollider.github.io/",
+      "category": "Open Source Music Projects",
+      "description": "Platform for audio synthesis, algorithmic composition, and sound research."
+    },
+    {
+      "name": "Pure Data",
+      "url": "https://puredata.info/",
+      "category": "Open Source Music Projects",
+      "description": "Visual programming environment for audio and multimedia."
+    },
+    {
+      "name": "Csound",
+      "url": "https://csound.com/",
+      "category": "Open Source Music Projects",
+      "description": "Sound and music computing system."
     }
   ]
 }

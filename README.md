@@ -165,6 +165,7 @@ This list is built to support a real independent release ecosystem, including mu
 - [Jamendo](https://www.jamendo.com/) - Independent music platform with licensing and discovery features.
 - [HearThis.at](https://hearthis.at/) - Music-sharing platform for DJs, producers, and independent creators.
 - [Newgrounds Audio Portal](https://www.newgrounds.com/audio) - Long-running community platform for independent music, game audio, and creator culture.
+- [No Stairs Please](https://nostairsplease.com/) - Independent live-music venue directory and drive-time tour-routing map for self-booking bands across all 50 US states, DC, and British Columbia.
 
 ## Music Distribution
 

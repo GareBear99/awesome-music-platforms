@@ -178,6 +178,7 @@ This list is built to support a real independent release ecosystem, including mu
 - [RouteNote](https://routenote.com/) - Distribution service with free and paid models.
 - [Symphonic Distribution](https://symphonic.com/) - Distribution, marketing, royalty, and label-services platform.
 - [ONErpm](https://onerpm.com/) - Distribution, label services, marketing, and creator tools.
+- [Spotify Play Count Scraper](https://apify.com/publicrecords/spotify-play-count-scraper) - Play counts for every track on a Spotify track, album, artist or playlist link, plus monthly listeners (Apify Actor, API + MCP).
 
 ## Sample Pack & Loop Marketplaces
 
